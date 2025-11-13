@@ -5,11 +5,11 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently finishing my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Django
+I'm a data and software engineer. I'm expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+- 🌱 I’m currently learning English 
+  - Python, JavaScript
 - 🔎 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
+- ✔ Ask me about anything, I'm happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and ⚽ playing soccer
 - 📫 Reach out to me at: <a href="romansantiago.ch@gmail.com">romansantiago.ch@gmail.com</a>
 
