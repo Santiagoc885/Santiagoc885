@@ -1,62 +1,63 @@
-<h1 align="center"><b>Hi , I'm Santiago Chaparro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+Hi, I'm Santiago Chaparro 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
-<img align="right" width=370px alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" width="320px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
+### About me
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***About me***
+Data and Software Engineer focused on building real-world solutions.
 
-I'm a data and software engineer. I'm expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning English 
-  - Python, JavaScript
-- 🔎 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I'm happy to help<br>
-- Outside tech, 🎮 playing videogames, 🎵 listening to music, and ⚽ playing soccer
-- 📫 Reach out to me at: <a href="romansantiago.ch@gmail.com">romansantiago.ch@gmail.com</a>
+I work across backend, frontend, and data. Lately, I’ve been pushing into AI systems, LLMs, and automation.
 
-## My Skills Include
+- Building systems with **Next.js, Django, Node.js**
+- Working with **LLMs, AI agents, and automation workflows**
+- Interested in **scalable architectures and clean backend design**
+- Currently improving my **English (B1)**
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+Outside tech: videogames, music, football.
+
+Contact: **romansantiago.ch@gmail.com**
+
+---
+
+### Tech Stack
+
+#### Core
+<span>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  
-
 </span>
 
-
-<h4> Other Tools and Technologies </h4>
+#### AI & Automation
 <span>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Agents-4B0082?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</span>
+
+#### Tools
+<span>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Scrum-2496ED.svg?style=for-the-badge&logo=scrumalliance&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  
-  
-
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white">
 </span>
 
-## Check out my Social Media
+---
 
-<a href= "https://www.instagram.com/chaaanti_/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 
-<h2>Github stats:</h2> 
+### GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=Santiagoc885&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Santiagoc885)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Santiagoc885&theme=material-palenight)](https://github.com/Santiagoc885)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiagoc885&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiagoc885&theme=material-palenight"/>
+</p>
